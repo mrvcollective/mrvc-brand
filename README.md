@@ -4,7 +4,8 @@ The MRV Collective is an expanding coalition of MRV (Measurement, Reporting & Ve
 
 Through open source tools, member partnerships, and community education, we support a range of impactful products that progress the MRV tech sector.
 ## Social Channels
-- [EMAIL](https://tiny.cc/mrvc-newsletter)
+- [Website](https://mrvcollective.org)
+- [Newsletter](https://tiny.cc/mrvc-newsletter)
 - [Twitter](https://twitter.com/mrvcollective)
 - [LinkedIn](https://www.linkedin.com/company/mrv-collective)
 
