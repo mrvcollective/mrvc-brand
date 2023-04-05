@@ -20,4 +20,4 @@ By adhering to this code of conduct, members of an MRV Collective can create a p
 
 1. Continuous improvement: Members shall continuously strive to improve their performance and contribute to the advancement of the MRV industry through innovation and best practices that respect the rights and dignity of indigenous peoples, local communities, and their traditional knowledge systems.
 
-By adhering to this code of conduct, members of an MRV industry alliance organization can create a positive and productive environment that respects the rights and dignity of all stakeholders involved, including indigenous peoples, local communities, and their traditional knowledge systems.
+By adhering to this code of conduct, members of the MRV Collective can create a positive and productive environment that respects the rights and dignity of all stakeholders involved, including indigenous peoples, local communities, and their traditional knowledge systems.
